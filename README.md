@@ -198,8 +198,5 @@ The application uses Redis with default settings:
 - Database: 0
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
